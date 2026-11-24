@@ -1,6 +1,6 @@
 # Luiz Albuquerque
 
-**Desenho interfaces. Escrevo o código. Aprendo a protegê-las.**
+**Construo aplicativos do design ao deploy — e penso em segurança desde a primeira linha.**
 
 Designer visual de São Paulo, migrando para tecnologia com um pé no front-end e o outro na segurança defensiva (Blue Team). Venho das artes visuais e da psicologia — por isso começo todo projeto pela mesma pergunta: *o que a pessoa precisa conseguir fazer aqui?*
 
