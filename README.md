@@ -12,6 +12,7 @@ Estou aprendendo em público. Cada projeto aqui mostra o que ficou pronto, o que
 
 | Missão | Status |
 |---|---|
+| ✅ Google · Fundamentos do Suporte Técnico | [concluído em nov/2026](https://www.coursera.org/account/accomplishments/verify/ILIKTJFXH2IH) |
 | 🎨 Google UX Design | em andamento |
 | 🛡️ Google Cybersecurity | começando |
 | 💻 HTML, CSS e JavaScript puro | prática diária |
